@@ -1,0 +1,14 @@
+{
+    "name": "1421580433/composer",
+    "description": "test a prject",
+    "type": "prject",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "1421580433",
+            "email": "1421580433@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
